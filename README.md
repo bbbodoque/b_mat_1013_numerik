@@ -1,5 +1,5 @@
 # b\_mat\_1013\_numerik
-## setup
+## setup (linux)
 vom root des projektes:
 ```bash
 python3 -m venv .b_mat_1013_numerik
